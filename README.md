@@ -1,7 +1,7 @@
 <h1>Tank Game</h1>
 
 Here is a tank game (simply named Tank Game) made with Python using the pygame library. 
-<br>This project was made in collaboration with <a href="https://github.com/Unn0o">@Unn0o</a>.
+<br>This project was made in collaboration with <a href="https://github.com/Cefucr">@Cefucr</a>.
 <br>In the files I didnt include the pictures of the tanks, bullet etc. 
 <hr>
 For the tank game, we made custom controllers that had:
